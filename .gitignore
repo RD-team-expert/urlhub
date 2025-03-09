@@ -14,7 +14,7 @@ public/js/*
 .env.backup
 .env.production
 /public/*/*.map
-/public/build
+# /public/build
 /public/hot
 /public/storage
 /storage/*.key
